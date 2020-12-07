@@ -11,4 +11,4 @@ As of as of 3/12/2020 this works (for me) on the latest firefox (regular, develo
 
 A cool observation: For most tabs, if this bug is executed all one has to do to "fix" it is close the tab.  
 But on the "new tab" page, this will bug the console and then even if the new tab page is closed and then opened again,  
-the console stays bugged. IDK why, maybe console instance is cached and so it's staying alive even after the new tab page is closed.
+the console stays bugged. IDK why, maybe parts of new tab page are cached and so it's staying alive even after the new tab page is closed.
