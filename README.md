@@ -6,7 +6,7 @@ Just open the HTML file in a FireFox browser of your choice.
 
 
 Firefox already knows about this particular cyclic object issue, but they haven't fixed it (or maybe don't intend to) and I thought this would be a cool application of it.  
-As of as of 3/12/2020 this works on the latest firefox (regular, developer addition and nightly builds).
+As of as of 3/12/2020 this works (for me) on the latest firefox (regular, developer addition and nightly builds).
 
 
 A cool observation: For most tabs, if this bug is executed all one has to do to "fix" it is close the tab.  
